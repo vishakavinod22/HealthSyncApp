@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:679117999606:android:303f67dbd32fe355410bd7",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.mobile.healthsync"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDUUiyz5PkFU6B_mKne_BwmZ68ioI9U8zw"
+          "current_key": ""
         }
       ],
       "services": {
